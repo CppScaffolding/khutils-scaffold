@@ -1,0 +1,4 @@
+## .gitignore file for khutils-scaffold
+
+## ignore folder fetched through gclient
+khutils
